@@ -1,0 +1,14 @@
+[Desktop Entry]
+Name=Spotify Bar Plasmoid
+Comment=Displays Spotify Info
+Encoding=UTF-8
+Icon=spotify-indicator
+ServiceTypes=Plasma/Applet
+Type=Service
+X-KDE-PluginInfo-Author=Corin V
+X-KDE-PluginInfo-Name=corinv.spotify-bar.plasmoid
+X-KDE-PluginInfo-License=GPL2
+X-KDE-PluginInfo-Version=1.0
+X-KDE-ServiceTypes=Plasma/Applet
+X-Plasma-API=declarativeappletscript
+X-Plasma-MainScript=ui/main.qml
